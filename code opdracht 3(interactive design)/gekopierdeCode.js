@@ -35,3 +35,4 @@ function setup() {
 		birds.push(bird);
 	}
 }
+//ik heb der code van de ghost demo gebruikt om de vogels te laten bewegen maar uiteindelijk heb ik heel de code moeten transformeren
